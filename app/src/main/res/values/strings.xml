@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">D1sPopularMovies</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_detain">DetainActivity</string>
+    <string name="title_activity_detail">DetailActivity</string>
+    <string name="title_sort_preference">Sort Movies</string>
+    <string name="summary_sort_preference">Set how the movies are sorted.</string>
+    <string name="pref_sort_default">popularity.desc</string>
+    <string name="pref_sort_key">sort_key</string>
+</resources>
